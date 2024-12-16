@@ -24,7 +24,7 @@ This project is a recreation of the classic Pong game using Pygame. Two players 
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/pong-game.git
+   git clone https://github.com/szzd7223/Pong.git
    cd pong-game
    ```
 2. **Create a virtual environment (optional):**
@@ -56,16 +56,7 @@ This project is a recreation of the classic Pong game using Pygame. Two players 
   - Move Up: `Up Arrow`
   - Move Down: `Down Arrow`
 
-## Screenshots
-*(Include relevant screenshots of gameplay here)*
-
 ## Technologies Used
 - **Python** - Main programming language
 - **Pygame** - Game development library
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-Feel free to contribute by submitting issues or pull requests!
 
