@@ -8,9 +8,7 @@ A simple implementation of the classic Pong game using Pygame.
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Controls](#controls)
-- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Introduction
 This project is a recreation of the classic Pong game using Pygame. Two players control paddles to bounce the ball back and forth, trying to score points by getting the ball past the opponent's paddle.
